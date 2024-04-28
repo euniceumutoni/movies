@@ -153,6 +153,5 @@ function submitReview() {
         document.body.removeChild(reviewForm);
     }
 }
-
 // Initial render of posts
 renderPosts();
